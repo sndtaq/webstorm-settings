@@ -3,7 +3,7 @@
     <property name="created">2016-12-25T23:26:45</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2016-12-25T23:53:33</property>
+    <property name="modified">2016-12-29T03:14:29</property>
     <property name="originalScheme">One dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -17,7 +17,7 @@
     <option name="CARET_ROW_COLOR" value="2c323b" />
     <option name="CONSOLE_BACKGROUND_KEY" value="282c34" />
     <option name="DELETED_LINES_COLOR" value="e06c75" />
-    <option name="GUTTER_BACKGROUND" value="282c34" />
+    <option name="GUTTER_BACKGROUND" value="212121" />
     <option name="INDENT_GUIDE" value="747369" />
     <option name="LINE_NUMBERS_COLOR" value="5c6370" />
     <option name="MODIFIED_LINES_COLOR" value="d19a66" />
@@ -1936,7 +1936,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="abb2bf" />
-        <option name="BACKGROUND" value="282c34" />
+        <option name="BACKGROUND" value="212121" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
