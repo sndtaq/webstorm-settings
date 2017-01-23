@@ -4,9 +4,6 @@
       <properties>
         <option name="frameworkName" value="jQuery" />
         <option name="frameworkVersion" value="1.1." />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-2.1.1.js" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-2.1.1.js" />
@@ -20,9 +17,6 @@
       <properties>
         <option name="frameworkName" value="jQuery" />
         <option name="frameworkVersion" value="1.1." />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.1.1.js" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.1.1.js" />
