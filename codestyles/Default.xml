@@ -1,7 +1,6 @@
 <code_scheme name="Default" version="173">
-  <option name="RIGHT_MARGIN" value="80" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
-  <option name="SOFT_MARGINS" value="80" />
+  <option name="SOFT_MARGINS" value="120" />
   <CssCodeStyleSettings>
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
