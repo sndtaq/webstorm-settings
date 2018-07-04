@@ -5,7 +5,6 @@
     <option name="filtersEnabledByDefault">
       <set>
         <option value="bem" />
-        <option value="c" />
       </set>
     </option>
     <option name="previewEnabled" value="true" />
